@@ -1,4 +1,9 @@
-# intro-to-AWS-VPC
+
+
+![CloudSOC logo](https://1.bp.blogspot.com/-YaqntajfnjI/YPcbjtDTuRI/AAAAAAAAAH4/PPe7LLbuo6sipM1cWVIT5FdBC7wzPG54gCLcBGAsYHQ/s150/cloudsoc.png)
+
+Introduction to AWS VPC
+-----------
 
 Head to networking and content delivery, choose VPC, and we can now see the resources
 
