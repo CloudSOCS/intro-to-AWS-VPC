@@ -64,4 +64,5 @@ Now go to Internet gateways.
 
 Internet gateways are attached to your VPC you can use them when you have a target in your route table to be able to send data out to the Internet.Your EC2 instances will also need public IP addresses in order to be able to use the Internet gateway and talk on the Internet. An egress only Internet gateway is for IPv6.
 
-So that's all for now I wanted to show you around and get familiar. Next I will show you how to start creating VPCs on AWS.
+Public and Private Subnets
+------------------------
